@@ -1,0 +1,407 @@
+﻿{
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "language": "English",
+      "definitions": [
+        {
+          "definition": ""
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\"></span> The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest <a rel=\"mw:WikiLink\" href=\"/wiki/discrete\" title=\"discrete\">discrete</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/meaningful\" title=\"meaningful\">meaningful</a> unit of language. \n\n<ol><li>The smallest discrete unit of spoken language with a particular meaning, composed of one or more <a rel=\"mw:WikiLink\" href=\"/wiki/phoneme\" title=\"phoneme\">phonemes</a> and one or more <a rel=\"mw:WikiLink\" href=\"/wiki/morpheme\" title=\"morpheme\">morphemes</a>\n</li>\n<li>The smallest discrete unit of written language with a particular meaning, composed of one or more <a rel=\"mw:WikiLink\" href=\"/wiki/letter\" title=\"letter\">letters</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/symbol\" title=\"symbol\">symbols</a> and one or more <a rel=\"mw:WikiLink\" href=\"/wiki/morpheme\" title=\"morpheme\">morphemes</a>\n</li>\n<li>A discrete, meaningful unit of language approved by an <a rel=\"mw:WikiLink\" href=\"/wiki/authority\" title=\"authority\">authority</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/native_speaker\" title=\"native speaker\">native speaker</a> (<i>compare <a rel=\"mw:WikiLink\" href=\"/wiki/non-word\" title=\"non-word\">non-word</a></i>).\n</li></ol>"
+        },
+        {
+          "definition": "The smallest discrete unit of spoken language with a particular meaning, composed of one or more <a rel=\"mw:WikiLink\" href=\"/wiki/phoneme\" title=\"phoneme\">phonemes</a> and one or more <a rel=\"mw:WikiLink\" href=\"/wiki/morpheme\" title=\"morpheme\">morphemes</a>"
+        },
+        {
+          "definition": "The smallest discrete unit of written language with a particular meaning, composed of one or more <a rel=\"mw:WikiLink\" href=\"/wiki/letter\" title=\"letter\">letters</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/symbol\" title=\"symbol\">symbols</a> and one or more <a rel=\"mw:WikiLink\" href=\"/wiki/morpheme\" title=\"morpheme\">morphemes</a>"
+        },
+        {
+          "definition": "A discrete, meaningful unit of language approved by an <a rel=\"mw:WikiLink\" href=\"/wiki/authority\" title=\"authority\">authority</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/native_speaker\" title=\"native speaker\">native speaker</a> (<i>compare <a rel=\"mw:WikiLink\" href=\"/wiki/non-word\" title=\"non-word\">non-word</a></i>)."
+        },
+        {
+          "definition": "Something like such a unit of language:"
+        },
+        {
+          "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/sequence\" title=\"sequence\">sequence</a> of <a rel=\"mw:WikiLink\" href=\"/wiki/letters\" title=\"letters\">letters</a>, characters, or <a rel=\"mw:WikiLink\" href=\"/wiki/sound\" title=\"sound\">sounds</a>, considered as a <a rel=\"mw:WikiLink\" href=\"/wiki/discrete\" title=\"discrete\">discrete</a> <a rel=\"mw:WikiLink\" href=\"/wiki/entity\" title=\"entity\">entity</a>, though it does not necessarily belong to a language or have a meaning."
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt103\" typeof=\"mw:Transclusion\"></span> A unit of <a rel=\"mw:WikiLink\" href=\"/wiki/text\" title=\"text\">text</a> equivalent to five <a rel=\"mw:WikiLink\" href=\"/wiki/character\" title=\"character\">characters</a> and one <a rel=\"mw:WikiLink\" href=\"/wiki/space\" title=\"space\">space</a>. <style data-mw-deduplicate=\"TemplateStyles:r86669767\" typeof=\"mw:Extension/templatestyles mw:Transclusion\" about=\"#mwt104\">.mw-parser-output .defdate{font-size:smaller}</style>"
+        },
+        {
+          "definition": ""
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\"></span> A fixed-size group of <a rel=\"mw:WikiLink\" href=\"/wiki/bit\" title=\"bit\">bits</a> handled as a unit by a machine and which can be stored in or retrieved from a typical <a rel=\"mw:WikiLink\" href=\"/wiki/register\" title=\"register\">register</a> (so that it has the same size as such a register). <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt109\" typeof=\"mw:Extension/templatestyles\">"
+        },
+        {
+          "definition": ""
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\"></span> With regards to Intel or Intel-compatible hardware and/or in the context of Windows programming, a group of exactly 16 <a rel=\"mw:WikiLink\" href=\"/wiki/bit\" title=\"bit\">bits</a> regardless of the actual processor capabilities; a fossilized unit referring to the small word size of historical CPUs. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt114\" typeof=\"mw:Extension/templatestyles\">"
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt115\" typeof=\"mw:Transclusion\"></span> A <a rel=\"mw:WikiLink\" href=\"/wiki/finite\" title=\"finite\">finite</a> <a rel=\"mw:WikiLink\" href=\"/wiki/string\" title=\"string\">string</a> that is <a rel=\"mw:WikiLink\" href=\"/wiki/not\" title=\"not\">not</a> a <a rel=\"mw:WikiLink\" href=\"/wiki/command\" title=\"command\">command</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/operator\" title=\"operator\">operator</a>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt116\" typeof=\"mw:Extension/templatestyles mw:Transclusion\">"
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt118\" typeof=\"mw:Transclusion\"></span> A <a rel=\"mw:WikiLink\" href=\"/wiki/group\" title=\"group\">group</a> <a rel=\"mw:WikiLink\" href=\"/wiki/element\" title=\"element\">element</a>, expressed as a <a rel=\"mw:WikiLink\" href=\"/wiki/product\" title=\"product\">product</a> of group elements."
+        },
+        {
+          "definition": "The fact or act of <a rel=\"mw:WikiLink\" href=\"/wiki/speaking\" title=\"speaking\">speaking</a>, as opposed to taking <a rel=\"mw:WikiLink\" href=\"/wiki/action\" title=\"action\">action</a>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt119\" typeof=\"mw:Extension/templatestyles mw:Transclusion\">."
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt123\" typeof=\"mw:Transclusion\"></span> Something that someone said; a <a rel=\"mw:WikiLink\" href=\"/wiki/comment\" title=\"comment\">comment</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/utterance\" title=\"utterance\">utterance</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/speech\" title=\"speech\">speech</a>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt124\" typeof=\"mw:Extension/templatestyles mw:Transclusion\">"
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt132\" typeof=\"mw:Transclusion\"></span> A <a rel=\"mw:WikiLink\" href=\"/wiki/watchword\" title=\"watchword\">watchword</a> or rallying cry, a verbal signal (even when consisting of multiple words).",
+          "parsedExamples": [
+            {
+              "example": "<a rel=\"mw:WikiLink\" href=\"/wiki/mum's_the_word#English\" title=\"mum's the word\">mum's the <b>word</b></a>"
+            }
+          ],
+          "examples": [
+            "<a rel=\"mw:WikiLink\" href=\"/wiki/mum's_the_word#English\" title=\"mum's the word\">mum's the <b>word</b></a>"
+          ]
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt136\" typeof=\"mw:Transclusion\"></span> A <a rel=\"mw:WikiLink\" href=\"/wiki/proverb\" title=\"proverb\">proverb</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/motto\" title=\"motto\">motto</a>."
+        },
+        {
+          "definition": ""
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/news\" title=\"news\">News</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/tidings\" title=\"tidings\">tidings</a>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt143\" typeof=\"mw:Extension/templatestyles\">",
+          "parsedExamples": [
+            {
+              "example": "Have you had any <b>word</b> from John yet<span typeof=\"mw:Entity\">?</span>"
+            },
+            {
+              "example": "I've tried for weeks to get <b>word</b>, but I still don't know where she is or if she's all right."
+            }
+          ],
+          "examples": [
+            "Have you had any <b>word</b> from John yet<span typeof=\"mw:Entity\">?</span>",
+            "I've tried for weeks to get <b>word</b>, but I still don't know where she is or if she's all right."
+          ]
+        },
+        {
+          "definition": "An <a rel=\"mw:WikiLink\" href=\"/wiki/order\" title=\"order\">order</a>; a <a rel=\"mw:WikiLink\" href=\"/wiki/request\" title=\"request\">request</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/instruction\" title=\"instruction\">instruction</a>; an expression of will. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt147\" typeof=\"mw:Extension/templatestyles mw:Transclusion\">",
+          "parsedExamples": [
+            {
+              "example": "He sent <b>word</b> that we should strike camp before winter."
+            },
+            {
+              "example": "Don't fire till I give the <b>word</b>"
+            },
+            {
+              "example": "Their mother's <b>word</b> was law."
+            }
+          ],
+          "examples": [
+            "He sent <b>word</b> that we should strike camp before winter.",
+            "Don't fire till I give the <b>word</b>",
+            "Their mother's <b>word</b> was law."
+          ]
+        },
+        {
+          "definition": ""
+        },
+        {
+          "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/promise\" title=\"promise\">promise</a>; an <a rel=\"mw:WikiLink\" href=\"/wiki/oath\" title=\"oath\">oath</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/guarantee\" title=\"guarantee\">guarantee</a>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt154\" typeof=\"mw:Extension/templatestyles\">",
+          "parsedExamples": [
+            {
+              "example": "I give you my <b>word</b> that I will be there on time."
+            }
+          ],
+          "examples": [
+            "I give you my <b>word</b> that I will be there on time."
+          ]
+        },
+        {
+          "definition": "A brief <a rel=\"mw:WikiLink\" href=\"/wiki/discussion\" title=\"discussion\">discussion</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/conversation\" title=\"conversation\">conversation</a>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt157\" typeof=\"mw:Extension/templatestyles mw:Transclusion\">",
+          "parsedExamples": [
+            {
+              "example": "I managed to murmur some <b>word</b>s of consolation as I left the funeral."
+            },
+            {
+              "example": "Can I have a <b>word</b> with you<span typeof=\"mw:Entity\">?</span>"
+            }
+          ],
+          "examples": [
+            "I managed to murmur some <b>word</b>s of consolation as I left the funeral.",
+            "Can I have a <b>word</b> with you<span typeof=\"mw:Entity\">?</span>"
+          ]
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt161\" typeof=\"mw:Transclusion\"></span> A minor <a rel=\"mw:WikiLink\" href=\"/wiki/reprimand\" title=\"reprimand\">reprimand</a>.",
+          "parsedExamples": [
+            {
+              "example": "I had a <b>word</b> with him about it."
+            }
+          ],
+          "examples": [
+            "I had a <b>word</b> with him about it."
+          ]
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt163\" typeof=\"mw:Transclusion\"></span> <i>See</i> <b><a rel=\"mw:WikiLink\" href=\"/wiki/words\" title=\"words\">words</a></b>.",
+          "parsedExamples": [
+            {
+              "example": "There had been <b>words</b> between him and the secretary about the outcome of the meeting."
+            }
+          ],
+          "examples": [
+            "There had been <b>words</b> between him and the secretary about the outcome of the meeting."
+          ]
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt165\" typeof=\"mw:Transclusion\"></span> Communication from <a rel=\"mw:WikiLink\" href=\"/wiki/God\" title=\"God\">God</a>; the <a rel=\"mw:WikiLink\" href=\"/wiki/message\" title=\"message\">message</a> of the Christian <a rel=\"mw:WikiLink\" href=\"/wiki/gospel\" title=\"gospel\">gospel</a>; the <a rel=\"mw:WikiLink\" href=\"/wiki/Bible\" title=\"Bible\">Bible</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/Scripture\" title=\"Scripture\">Scripture</a>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt166\" typeof=\"mw:Extension/templatestyles mw:Transclusion\">",
+          "parsedExamples": [
+            {
+              "example": "Her parents had lived in Botswana, spreading the <b>word</b> among the tribespeople."
+            }
+          ],
+          "examples": [
+            "Her parents had lived in Botswana, spreading the <b>word</b> among the tribespeople."
+          ]
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt170\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/Logos\" title=\"Logos\">Logos</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/Christ\" title=\"Christ\">Christ</a>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r86669767\" about=\"#mwt171\" typeof=\"mw:Extension/templatestyles mw:Transclusion\">"
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "language": "English",
+      "definitions": [
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt201\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/say\" title=\"say\">say</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/write\" title=\"write\">write</a> (something) using particular words; to <a rel=\"mw:WikiLink\" href=\"/wiki/phrase\" title=\"phrase\">phrase</a> (something).",
+          "parsedExamples": [
+            {
+              "example": "I\u2019m not sure how to <b>word</b> this letter to the council."
+            }
+          ],
+          "examples": [
+            "I\u2019m not sure how to <b>word</b> this letter to the council."
+          ]
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt204\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/flatter\" title=\"flatter\">flatter</a> with words, to <a rel=\"mw:WikiLink\" href=\"/wiki/cajole\" title=\"cajole\">cajole</a>."
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt207\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/ply\" title=\"ply\">ply</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/overpower\" title=\"overpower\">overpower</a> with words."
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt210\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/conjure\" title=\"conjure\">conjure</a> with a word."
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt214\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/speak\" title=\"speak\">speak</a>, to use words; to <a rel=\"mw:WikiLink\" href=\"/wiki/converse\" title=\"converse\">converse</a>, to <a rel=\"mw:WikiLink\" href=\"/wiki/discourse\" title=\"discourse\">discourse</a>."
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "language": "English",
+      "definitions": [
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt227\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/truth\" title=\"truth\">Truth</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/indeed\" title=\"indeed\">indeed</a>, that is the truth! <span class=\"use-with-mention\" about=\"#mwt228\" typeof=\"mw:Transclusion\">The shortened form of the statement \"My word is my bond.\"</span>",
+          "parsedExamples": [
+            {
+              "example": "\"Yo, that movie was epic<span typeof=\"mw:Entity\">!</span>\" <span typeof=\"mw:Entity\">/</span> \"<b>Word</b><span typeof=\"mw:Entity\">?</span>\" (\"You speak the truth<span typeof=\"mw:Entity\">?</span>\") <span typeof=\"mw:Entity\">/</span> \"<b>Word</b>.\" (\"I speak the truth.\")"
+            }
+          ],
+          "examples": [
+            "\"Yo, that movie was epic<span typeof=\"mw:Entity\">!</span>\" <span typeof=\"mw:Entity\">/</span> \"<b>Word</b><span typeof=\"mw:Entity\">?</span>\" (\"You speak the truth<span typeof=\"mw:Entity\">?</span>\") <span typeof=\"mw:Entity\">/</span> \"<b>Word</b>.\" (\"I speak the truth.\")"
+          ]
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt230\" typeof=\"mw:Transclusion\"></span> <span class=\"use-with-mention\" about=\"#mwt231\" typeof=\"mw:Transclusion\">An abbreviated form of <i class=\"Latn mention\" lang=\"en\"><a rel=\"mw:WikiLink\" href=\"/wiki/word_up#English\" title=\"word up\">word up</a></i><span typeof=\"mw:Entity\">;</span> a statement of the acknowledgment of fact with a hint of nonchalant approval.</span>"
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "language": "English",
+      "definitions": [
+        {
+          "definition": "<span class=\"form-of-definition use-with-mention\" about=\"#mwt243\" typeof=\"mw:Transclusion\">Alternative form of <span class=\"form-of-definition-link\"><i class=\"Latn mention\" lang=\"en\"><a rel=\"mw:WikiLink\" href=\"/wiki/worth#English\" title=\"worth\">worth</a></i> <span class=\"mention-gloss-paren annotation-paren\">(</span><span class=\"mention-gloss-double-quote\">\u201c</span><span class=\"mention-gloss\">to become</span><span class=\"mention-gloss-double-quote\">\u201d</span><span class=\"mention-gloss-paren annotation-paren\">)</span></span></span>."
+        }
+      ]
+    }
+  ],
+  "af": [
+    {
+      "partOfSpeech": "Verb",
+      "language": "Afrikaans",
+      "definitions": [
+        {
+          "definition": "to <a rel=\"mw:WikiLink\" href=\"/wiki/become\" title=\"become\">become</a>; to <a rel=\"mw:WikiLink\" href=\"/wiki/get\" title=\"get\">get</a> <span class=\"mention-gloss-paren\" about=\"#mwt257\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt257\">to change one\u2019s state</span><span class=\"mention-gloss-paren\" about=\"#mwt257\">)</span>",
+          "parsedExamples": [
+            {
+              "example": "Ek het ryk <b>geword</b>.",
+              "translation": "I <b>became</b> rich."
+            },
+            {
+              "example": "Ek <b>word</b> ryk.",
+              "translation": "I <b>am becoming</b> rich."
+            },
+            {
+              "example": "Sy <b>word</b> beter.",
+              "translation": "She <b>is getting</b> better."
+            }
+          ],
+          "examples": [
+            "Ek het ryk <b>geword</b>.",
+            "Ek <b>word</b> ryk.",
+            "Sy <b>word</b> beter."
+          ]
+        },
+        {
+          "definition": "<span class=\"use-with-mention\" about=\"#mwt261\" typeof=\"mw:Transclusion\">Forms the present passive voice when followed by a past participle</span>",
+          "parsedExamples": [
+            {
+              "example": "Die kat <b>word</b> gevoer.",
+              "translation": "The cat <b>is being</b> fed."
+            }
+          ],
+          "examples": [
+            "Die kat <b>word</b> gevoer."
+          ]
+        }
+      ]
+    }
+  ],
+  "other": [
+    {
+      "partOfSpeech": "Noun",
+      "language": "Chinese Pidgin English",
+      "definitions": [
+        {
+          "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/word#English\" class=\"mw-selflink-fragment\">word</a>"
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "language": "Middle English",
+      "definitions": [
+        {
+          "definition": "A <span class=\"Latn\" lang=\"en\" about=\"#mwt291\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/word#English\" class=\"mw-selflink-fragment\">word</a></span> <span class=\"mention-gloss-paren\" about=\"#mwt292\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt292\">separable, discrete linguistic unit</span><span class=\"mention-gloss-paren\" about=\"#mwt292\">)</span>"
+        },
+        {
+          "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/statement\" title=\"statement\">statement</a>; a linguistic unit said or <a rel=\"mw:WikiLink\" href=\"/wiki/written\" title=\"written\">written</a> by someone:\n<ol><li>A <a rel=\"mw:WikiLink\" href=\"/wiki/speech\" title=\"speech\">speech</a>; a formal <a rel=\"mw:WikiLink\" href=\"/wiki/statement\" title=\"statement\">statement</a>.</li>\n<li>A <a rel=\"mw:WikiLink\" href=\"/wiki/byword\" title=\"byword\">byword</a> or maxim; a short expression of truth.</li>\n<li>A <a rel=\"mw:WikiLink\" href=\"/wiki/promise\" title=\"promise\">promise</a>; an <a rel=\"mw:WikiLink\" href=\"/wiki/oath\" title=\"oath\">oath</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/guarantee\" title=\"guarantee\">guarantee</a>.</li>\n<li>A <a rel=\"mw:WikiLink\" href=\"/wiki/motto\" title=\"motto\">motto</a>; an <a rel=\"mw:WikiLink\" href=\"/wiki/expression\" title=\"expression\">expression</a> associated with a person or people.</li>\n<li>A piece of <a rel=\"mw:WikiLink\" href=\"/wiki/news\" title=\"news\">news</a> <span class=\"mention-gloss-paren\" about=\"#mwt294\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt294\">often warning or recommending</span><span class=\"mention-gloss-paren\" about=\"#mwt294\">)</span>\n</li>\n<li>An <a rel=\"mw:WikiLink\" href=\"/wiki/order\" title=\"order\">order</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/directive\" title=\"directive\">directive</a>; something necessary.</li>\n<li>A <a rel=\"mw:WikiLink\" href=\"/wiki/religious\" title=\"religious\">religious</a> precept, <a rel=\"mw:WikiLink\" href=\"/wiki/stricture\" title=\"stricture\">stricture</a>, or belief.</li></ol>"
+        },
+        {
+          "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/speech\" title=\"speech\">speech</a>; a formal <a rel=\"mw:WikiLink\" href=\"/wiki/statement\" title=\"statement\">statement</a>."
+        },
+        {
+          "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/byword\" title=\"byword\">byword</a> or maxim; a short expression of truth."
+        },
+        {
+          "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/promise\" title=\"promise\">promise</a>; an <a rel=\"mw:WikiLink\" href=\"/wiki/oath\" title=\"oath\">oath</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/guarantee\" title=\"guarantee\">guarantee</a>."
+        },
+        {
+          "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/motto\" title=\"motto\">motto</a>; an <a rel=\"mw:WikiLink\" href=\"/wiki/expression\" title=\"expression\">expression</a> associated with a person or people."
+        },
+        {
+          "definition": "A piece of <a rel=\"mw:WikiLink\" href=\"/wiki/news\" title=\"news\">news</a> <span class=\"mention-gloss-paren\" about=\"#mwt294\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt294\">often warning or recommending</span><span class=\"mention-gloss-paren\" about=\"#mwt294\">)</span>"
+        },
+        {
+          "definition": "An <a rel=\"mw:WikiLink\" href=\"/wiki/order\" title=\"order\">order</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/directive\" title=\"directive\">directive</a>; something necessary."
+        },
+        {
+          "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/religious\" title=\"religious\">religious</a> precept, <a rel=\"mw:WikiLink\" href=\"/wiki/stricture\" title=\"stricture\">stricture</a>, or belief."
+        },
+        {
+          "definition": "The act of <a rel=\"mw:WikiLink\" href=\"/wiki/speaking\" title=\"speaking\">speaking</a> <span class=\"mention-gloss-paren\" about=\"#mwt296\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt296\">especially as opposed to action</span><span class=\"mention-gloss-paren\" about=\"#mwt296\">)</span>:"
+        },
+        {
+          "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/discourse\" title=\"discourse\">Discourse</a>; the <a rel=\"mw:WikiLink\" href=\"/wiki/exchange\" title=\"exchange\">exchange</a> of statements.\n<ol><li>The <a rel=\"mw:WikiLink\" href=\"/wiki/basic\" title=\"basic\">basic</a>, non-figurative reading of something.</li>\n<li>The way one <a rel=\"mw:WikiLink\" href=\"/wiki/speaks\" title=\"speaks\">speaks</a> <span class=\"mention-gloss-paren\" about=\"#mwt297\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt297\">especially with modifying adjective</span><span class=\"mention-gloss-paren\" about=\"#mwt297\">)</span></li></ol>"
+        },
+        {
+          "definition": "The <a rel=\"mw:WikiLink\" href=\"/wiki/basic\" title=\"basic\">basic</a>, non-figurative reading of something."
+        },
+        {
+          "definition": "The way one <a rel=\"mw:WikiLink\" href=\"/wiki/speaks\" title=\"speaks\">speaks</a> <span class=\"mention-gloss-paren\" about=\"#mwt297\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt297\">especially with modifying adjective</span><span class=\"mention-gloss-paren\" about=\"#mwt297\">)</span>"
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt298\" typeof=\"mw:Transclusion\"></span> The <a rel=\"mw:WikiLink\" href=\"/wiki/Logos\" title=\"Logos\">Logos</a> <span class=\"mention-gloss-paren\" about=\"#mwt299\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt299\">Jesus Christ</span><span class=\"mention-gloss-paren\" about=\"#mwt299\">)</span>"
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt301\" typeof=\"mw:Transclusion\"></span> The human faculty of <a rel=\"mw:WikiLink\" href=\"/wiki/language\" title=\"language\">language</a> as a whole."
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "language": "Middle English",
+      "definitions": [
+        {
+          "definition": "<span class=\"form-of-definition use-with-mention\" about=\"#mwt311\" typeof=\"mw:Transclusion\">alternative form of <span class=\"form-of-definition-link\"><i class=\"Latn mention\" lang=\"enm\"><a rel=\"mw:WikiLink\" href=\"/wiki/werde#Middle_English\" title=\"werde\">werde</a></i></span></span>"
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "language": "Old English",
+      "definitions": [
+        {
+          "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/word#English\" class=\"mw-selflink-fragment\">word</a>"
+        },
+        {
+          "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/speech\" title=\"speech\">speech</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/utterance\" title=\"utterance\">utterance</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/statement\" title=\"statement\">statement</a>"
+        },
+        {
+          "definition": "<span class=\"usage-label-sense\" about=\"#mwt322\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/verb\" title=\"verb\">verb</a>"
+        },
+        {
+          "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/news\" title=\"news\">news</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/information\" title=\"information\">information</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/rumour\" title=\"rumour\">rumour</a>"
+        },
+        {
+          "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/command\" title=\"command\">command</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/request\" title=\"request\">request</a>"
+        },
+        {
+          "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/Logos\" title=\"Logos\">Logos</a>, the Word of <a rel=\"mw:WikiLink\" href=\"/wiki/God\" title=\"God\">God</a>, the second person of the <a rel=\"mw:WikiLink\" href=\"/wiki/Trinity\" title=\"Trinity\">Trinity</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/Jesus\" title=\"Jesus\">Jesus</a>"
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "language": "Old English",
+      "definitions": [
+        {
+          "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/thornbush\" title=\"thornbush\">thornbush</a>"
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "language": "Old Saxon",
+      "definitions": [
+        {
+          "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/word#English\" class=\"mw-selflink-fragment\">word</a>"
+        }
+      ]
+    }
+  ],
+  "nl": [
+    {
+      "partOfSpeech": "Verb",
+      "language": "Dutch",
+      "definitions": [
+        {
+          "definition": "<span class=\"form-of-definition use-with-mention\" about=\"#mwt282\" typeof=\"mw:Transclusion\">inflection of <span class=\"form-of-definition-link\"><i class=\"Latn mention\" lang=\"nl\"><a rel=\"mw:WikiLink\" href=\"/wiki/worden#Dutch\" title=\"worden\">worden</a></i></span>:</span><span about=\"#mwt282\">\n</span><ol about=\"#mwt282\"><li><span class=\"form-of-definition use-with-mention\"><a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#first_person\" title=\"Appendix:Glossary\">first-person</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#singular_number\" title=\"Appendix:Glossary\">singular</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#present_tense\" title=\"Appendix:Glossary\">present</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#indicative_mood\" title=\"Appendix:Glossary\">indicative</a></span></li>\n<li><span class=\"form-of-definition use-with-mention\">(in case of <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#inversion\" title=\"Appendix:Glossary\">inversion</a>) <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#second_person\" title=\"Appendix:Glossary\">second-person</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#singular_number\" title=\"Appendix:Glossary\">singular</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#present_tense\" title=\"Appendix:Glossary\">present</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#indicative_mood\" title=\"Appendix:Glossary\">indicative</a></span></li>\n<li><span class=\"form-of-definition use-with-mention\"><a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#imperative_mood\" title=\"Appendix:Glossary\">imperative</a></span></li></ol>"
+        },
+        {
+          "definition": "<span class=\"form-of-definition use-with-mention\"><a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#first_person\" title=\"Appendix:Glossary\">first-person</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#singular_number\" title=\"Appendix:Glossary\">singular</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#present_tense\" title=\"Appendix:Glossary\">present</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#indicative_mood\" title=\"Appendix:Glossary\">indicative</a></span>"
+        },
+        {
+          "definition": "<span class=\"form-of-definition use-with-mention\">(in case of <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#inversion\" title=\"Appendix:Glossary\">inversion</a>) <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#second_person\" title=\"Appendix:Glossary\">second-person</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#singular_number\" title=\"Appendix:Glossary\">singular</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#present_tense\" title=\"Appendix:Glossary\">present</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#indicative_mood\" title=\"Appendix:Glossary\">indicative</a></span>"
+        },
+        {
+          "definition": "<span class=\"form-of-definition use-with-mention\"><a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#imperative_mood\" title=\"Appendix:Glossary\">imperative</a></span>"
+        }
+      ]
+    }
+  ]
+}
