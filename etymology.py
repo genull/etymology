@@ -26,10 +26,23 @@ def get_etymology(word, language='English'):
     # Format the language string to match Wiktionary section IDs (e.g. "old english" -> "Old_English")
     language_id = language.title().replace(' ', '_')
     
+    # Collect all available languages on the page for hinting
+    available_langs = []
+    for h2 in soup.find_all('h2'):
+        lang_text = h2.get_text(strip=True).replace('[edit]', '').strip()
+        # Filter out meta headers
+        if lang_text and lang_text not in ['Contents', 'Navigation menu', 'Personal tools', 'Namespaces', 'Views', 'Search', 'Navigation', 'Tools']:
+            available_langs.append(lang_text)
+            
+    hint = f"\nHint: Available languages on Wiktionary for '{word}' are: {', '.join(available_langs)}" if available_langs else ""
+
     # Find the language section using its id
     lang_header = soup.find(id=language_id)
     if not lang_header:
-        return f"Error: Language '{language}' not found for the word '{word}'."
+        # Check if the exact title exists in available languages (to support non-standard IDs just in case)
+        fallback = [l for l in available_langs if l.replace(' ', '_') == language_id]
+        if not fallback:
+             return f"Error: Language '{language}' not found for the word '{word}'.{hint}"
         
     # The id is often on a span inside the h2, or the h2 itself. 
     lang_block = lang_header
@@ -37,7 +50,7 @@ def get_etymology(word, language='English'):
         lang_block = lang_block.parent
     
     if not lang_block:
-         return f"Error: Could not locate language section properly for '{language}'."
+         return f"Error: Could not locate language section properly for '{language}'.{hint}"
 
     # In modern Wikipedia skins, headings are wrapped in <div class="mw-heading">
     if lang_block.parent and lang_block.parent.name == 'div' and 'mw-heading' in lang_block.parent.get('class', []):
@@ -91,7 +104,7 @@ def get_etymology(word, language='English'):
         etymologies.append('\n'.join(current_etymology))
         
     if not etymologies:
-        return f"No etymology found for '{word}' in '{language}'."
+        return f"No etymology found for '{word}' in '{language}'.{hint}"
         
     # Format the output cleanly
     if len(etymologies) == 1:
